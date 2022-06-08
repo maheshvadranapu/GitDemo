@@ -7,9 +7,10 @@ public class class1 {
 		
 		System.out.println("mahesh");
 		System.out.println("swamy");
-		
-	
-		
+		System.out.println("ganesh");
+		System.out.println("akhil");
+		System.out.println("ravi");
+		System.out.println("vikas");
 		
 	}
  
