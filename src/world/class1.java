@@ -11,7 +11,8 @@ public class class1 {
 		System.out.println("akhil");
 		System.out.println("ravi");
 		System.out.println("vikas");
-		
+		System.out.println("Anandh");
+		System.out.println("Richa");
 	}
  
 }
